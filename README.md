@@ -1,2 +1,2 @@
-# Isikan-judul-Repositori
-Disini Deskripsi. Centang Initialize dibawah
+# interprouas
+Ini isi UAS nya :)
